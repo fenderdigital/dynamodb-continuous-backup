@@ -1,0 +1,8 @@
+{
+  "provisionAll": (true|false),
+  "tableNames": [
+    "use1-prod-counters",
+    "use1-prod-customtunings",
+    "use1-prod-shared-preset"
+  ]
+}
