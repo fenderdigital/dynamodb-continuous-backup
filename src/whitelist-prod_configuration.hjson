@@ -1,8 +1,28 @@
 {
-  "provisionAll": (true|false),
+  "provisionAll": false,
   "tableNames": [
     "use1-prod-counters",
     "use1-prod-customtunings",
-    "use1-prod-shared-preset"
+    "use1-prod-shared-preset",
+    "use1-prod-play_api-progress_path",
+    "use1-prod-play_api-progress_lesson",
+    "use1-prod-play_api-progress_course",
+    "use1-prod-lms-videos",
+    "use1-prod-lms-song_feeds",
+    "use1-prod-lms-playlists",
+    "use1-prod-lms-paths",
+    "use1-prod-lms-lessons",
+    "use1-prod-lms-instructors",
+    "use1-prod-lms-courses",
+    "use1-prod-lms-chords",
+    "use1-prod-cms-tips",
+    "use1-prod-cms-songs",
+    "use1-prod-cms-promos",
+    "use1-prod-cms-pages",
+    "use1-prod-cms-external_items",
+    "use1-prod-cms-blocks",
+    "use1-prod-cms-artists",
+    "use1-prod-cms-articles",
+    "use1-prod-tags"
   ]
 }
