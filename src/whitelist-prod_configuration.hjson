@@ -6,6 +6,7 @@
     "use1-prod-shared-preset",
     "use1-prod-play_api-progress_path",
     "use1-prod-play_api-progress_lesson",
+    "use1-prod-play_api-progress_standalone_lesson",
     "use1-prod-play_api-progress_course",
     "use1-prod-lms-videos",
     "use1-prod-lms-song_feeds",
